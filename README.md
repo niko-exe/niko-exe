@@ -1,4 +1,4 @@
-# Hi, I'm Alan! 👋
+# Hey, I'm Alan! 
 
 
 ## 🚀 About Me
