@@ -11,3 +11,12 @@ I'm a Data Analyst by day and Batman by night.
 
 ## 🛠 Skills
 Excel, Power BI, SQL, Tableau, R, Alteryx 
+
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=niko-exe&theme=dark&background=000000)](https://git.io/streak-stats)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=niko-exe&label=Profile%20views&color=0e75b6&style=flat" alt="niko-exe" /> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=niko-exe&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
