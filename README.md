@@ -10,7 +10,7 @@ I'm a Data Analyst by day and Batman by night.
 
 
 ## 🛠 Skills
-Excel, Power BI, SQL, Tableau, R, Alteryx 
+Excel, Power BI, SQL, Python, R, Tableau, Alteryx 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niko-exe&show_icons=true&locale=en" alt="niko-exe" /></p>
 
 
