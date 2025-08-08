@@ -6,8 +6,7 @@ I'm a Data Analyst by day and Batman by night.
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nichoolas-alan/)
-[![hackerrank](https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)]((https://www.hackerrank.com/profile/nichoolasalan/))
-
+[![hackerrank](https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/nichoolasalan/)
 
 ## 🛠 Skills
 Excel, Power BI, SQL, Python, R, Tableau, Alteryx 
